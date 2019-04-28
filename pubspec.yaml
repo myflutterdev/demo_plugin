@@ -2,7 +2,7 @@ name: open_native
 description: A new flutter plugin project.
 version: 0.0.1
 author: xzm
-homepage: 
+homepage: https://github.com/myflutterdev/demo_plugin
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
