@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - open_native (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios-release`)
+  - open_native (from `.symlinks/plugins/open_native/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios-release"
+  open_native:
+    :path: ".symlinks/plugins/open_native/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  open_native: 299bcf0c041da999ca7489f70c9a086a4a083c27
+
+PODFILE CHECKSUM: aff02bfeed411c636180d6812254b2daeea14d09
+
+COCOAPODS: 1.5.3
