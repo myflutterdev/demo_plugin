@@ -1,7 +1,7 @@
 name: open_native
 description: A new flutter plugin project.
-version: 0.0.1
-author: xzm
+version: 0.0.2
+author: xzm <xzm0925@gmail.com>
 homepage: https://github.com/myflutterdev/demo_plugin
 
 environment:
